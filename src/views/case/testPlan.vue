@@ -1,8 +1,7 @@
 <template>
-  <router-view></router-view>
+    测试计划
 </template>
 
 <script setup>
 </script>
 
-<style></style>
